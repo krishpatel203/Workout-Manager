@@ -1,0 +1,18 @@
+Candice;2400;Sleep
+Candice;815;Coffee
+Candice;1800;Dinner with friends
+Candice;830;Gym
+Candice;915;Shower and breakfast
+Candice;1015;Travel to class
+Candice;1030;Class 1
+Candice;1430;Class 3
+Candice;1145;Travel to Lunch
+Candice;1200;Lunch and hang with friends
+Candice;1300;Class 2
+Candice;1415;Travel to class
+Candice;1545;Travel home
+Candice;1600;Homework and studying
+Candice;1900;Hang with friends
+Candice;2000;Homework and studying
+Candice;2200;Games, friends, and parties
+Candice;800;Wake up
